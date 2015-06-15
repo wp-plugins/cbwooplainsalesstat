@@ -13,15 +13,15 @@ Plain Sales Stat For Woocommerce
 Tired of woocommerce builtin sales stat or 3rd party sales stat with lots of features that looks messy(too much techie), try this. We developed this simple and clean sales start for our need, hope this will be useful to you. Check everyday sales count, product item count, sales amount(income) in one sight.
 
 Two Types Statistics
-- Daily sales for Single Month
-- Last 12 Months Total
+* Daily sales for Single Month
+* Last 12 Months Total
 
 Other Features
-- Available for both daily and monthly
-- Next Previous Month Navigation
-- Number of Orders
-- Number of Products
-- Total Sales Amount
+* Available for both daily and monthly
+* Next Previous Month Navigation
+* Number of Orders
+* Number of Products
+* Total Sales Amount
 
 Responsive & WordPress Native
 
@@ -29,13 +29,13 @@ Following wordpress standard Dashboard the stat has wordpress styled layout. Res
 
 
 Month At a Glance
-- Month To Date Sales
-- Forecasted Sales
-- Total Items
-- Average Sales/Day
-- Avg Orders Per Day
+* Month To Date Sales
+* Forecasted Sales
+* Total Items
+* Average Sales/Day
+* Avg Orders Per Day
 
-
+See more details at  http://wpboxr.com/product/woocommerce-plain-sales-report-for-wordpress
 
 == Installation ==
 
