@@ -1,7 +1,7 @@
 === CBX Woocommerce Plain Sales Stat ===
 Contributors: manchumahara,codeboxr,wpboxr 
 Donate link:http://wpboxr.com/donate
-Tags: woocommerce,sales report
+Tags: woocommerce,sales report,woocommerce report, woocommerce sales log
 Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag: 1.0.1
